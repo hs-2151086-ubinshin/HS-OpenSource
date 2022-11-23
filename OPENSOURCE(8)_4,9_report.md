@@ -37,7 +37,7 @@
 
 
 ### 4.5 ElasticSearch
-Elasticsearch는 ‘아파치 루신’을 기반으로 만든 검색엔진으로 실시간 검색을 제공한다. 대량의 배정형 데이터 보관 및 검색이 가능하며 Near Realtime, 통계 분석의 기능을 한다. Elasticsearch는 Elastic에서 만들었으며, Apache 2.0 라이센스를 따른다. 그런데 Elastic에서 2021년 1월 21일부로 소프트웨어의 라이선스가 Apache 2.0에서 Elastic으로 변경되면서 Elasticsearch 버전 7.10.2 이후로는 오픈 소스소프트웨어가 아니다.
+Elasticsearch는 데이터를 저장하고 쿼리를 하고 검색하고 분석하는 모든 처리를 담당한다. ‘아파치 루신’을 기반으로 만든 검색엔진으로 실시간 검색을 제공한다. 대량의 배정형 데이터 보관 및 검색이 가능하며  Near Realtime, 통계 분석의 기능을 한다. Elasticsearch는 Elastic에서 만들었으며, Apache 2.0 라이센스를 따른다. 그런데 Elastic에서 2021년 1월 21일부로 소프트웨어의 라이선스가 Apache 2.0에서 Elastic으로 변경되면서 Elasticsearch 버전 7.10.2 이후로는 오픈 소스소프트웨어가 아니기 때문에 주의해야 한다
 
 ### 4.6 SpringBoot
 
